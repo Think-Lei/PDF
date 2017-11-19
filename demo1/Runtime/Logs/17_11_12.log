@@ -1,0 +1,48 @@
+[ 2017-11-12T14:37:44+08:00 ] ::1 /demo1/index.php/home/Myimformation
+ERR: 无法加载控制器:Myimformation
+
+[ 2017-11-12T14:37:48+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-12T14:56:24+08:00 ] ::1 /demo1/index.php/home/Login
+ERR: 非法操作:index
+
+[ 2017-11-12T16:00:30+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-12T16:00:33+08:00 ] ::1 /demo1/index.php/home/Myimformation
+ERR: 无法加载控制器:Myimformation
+
+[ 2017-11-12T16:17:21+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-12T16:18:11+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-12T16:18:49+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-12T16:18:52+08:00 ] ::1 /demo1/index.php/home/modify
+ERR: 无法加载控制器:Modify
+
+[ 2017-11-12T16:19:13+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-12T16:21:18+08:00 ] ::1 /demo1/index.php/home/modify
+ERR: 无法加载控制器:Modify
+
+[ 2017-11-12T16:25:08+08:00 ] ::1 /demo1/index.php/home/updata
+ERR: 无法加载控制器:Updata
+
+[ 2017-11-12T16:25:59+08:00 ] ::1 /demo1/index.php/home/updata
+ERR: 无法加载控制器:Updata
+
+[ 2017-11-12T16:26:04+08:00 ] ::1 /demo1/index.php/home/update
+ERR: 非法操作:index
+
+[ 2017-11-12T16:26:28+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 非法操作:index
+
+[ 2017-11-12T16:28:26+08:00 ] ::1 /demo1/index.php/home/information
+ERR: 无法加载控制器:Information
+

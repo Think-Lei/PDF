@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息分页表示</title>
+</head>
+<body>
+<center>
+<table border="0">
+    <tr>
+        <th >ID</th>
+        <th >用户名</th>
+        <th >密码</th>
+    </tr>
+    <volist name="list" id="vo">
+        <tr>
+            <td>{$vo['id']}</td>
+            <td>{$vo['username']}</td>
+            <td>{$vo['password']}</td>
+        </tr>
+    </volist>
+</table>
+
+<br><br><br>
+<div>{$p}</div><br><br>
+<a href="/demo1/index.php/Home/User/user.html">返回主页面</a>
+</center>
+<br><br>
+</body>
+</html>

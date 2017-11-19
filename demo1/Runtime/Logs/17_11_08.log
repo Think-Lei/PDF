@@ -1,0 +1,15 @@
+[ 2017-11-08T09:32:26+08:00 ] ::1 /demo1/index.php/home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-08T09:32:34+08:00 ] ::1 /demo1/index.php/home/Myimformation
+ERR: 无法加载控制器:Myimformation
+
+[ 2017-11-08T11:16:20+08:00 ] ::1 /demo1/index.php/home/Eximport
+ERR: 非法操作:index
+
+[ 2017-11-08T11:29:21+08:00 ] ::1 /demo1/index.php/home/User
+ERR: 非法操作:index
+
+[ 2017-11-08T11:29:48+08:00 ] ::1 /demo1/index.php/home/User
+ERR: 非法操作:index
+
